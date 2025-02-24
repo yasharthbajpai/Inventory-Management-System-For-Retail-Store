@@ -1,6 +1,6 @@
 # E-Commerce Application
 
-## Project Scenario 2:
+## Project Scenario :
 
 You are building an e-commerce system that tracks
 orders, products, and customer details. The system needs
